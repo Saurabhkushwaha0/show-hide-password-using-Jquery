@@ -9,7 +9,7 @@ Show/Hide Password Using Jquery best way to hide and show password ...
 
 - 🔭 I’m currently working on [Hack with Anonymous](https://dev-hackwithanonymous.pantheonsite.io/)
 
-- 🌱 I’m currently learning **React js, Java **
+- 🌱 I’m currently learning **React js, Java**
 
 - 👯 I’m looking to collaborate on [Followers Boosters](https://followersboosters.eu.org/)
 
