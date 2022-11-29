@@ -1,6 +1,6 @@
 # show-hide-password-using-Jquery
 Show/Hide Password Using Jquery best way to hide and show password ...
-[![MasterHead](/main.png)](https://dev-hackwithanonymous.pantheonsite.io/)
+
 <!-- <h1 align="center">Hi 👋, I'm Saurabh kushwaha</h1> -->
 <h3 align="center">A passionate frontend Developer/Backend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
